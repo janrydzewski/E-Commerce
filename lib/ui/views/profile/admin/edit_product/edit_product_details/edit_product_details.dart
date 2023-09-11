@@ -1,0 +1,1 @@
+export 'edit_product_details_screen.dart';
