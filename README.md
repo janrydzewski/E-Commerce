@@ -6,6 +6,19 @@ The admin account has the capability to add and edit existing items, which then 
 
 Additionally, the application offers a wide range of other functionalities.
 
+Whole application has been build with:
+<li>bloc</li>
+<li>equatable</li>
+<li>hydrated_bloc</li>
+<lifirebase></li>
+<li>go_router</li>
+<li>http</li>
+<li>stripe</li>
+<li>geocoding</li>
+<li>google_fonts</li>
+<li>firebase_crashlytics</li>
+
+
 # Light Mode
 
 <img width="300" height="580" alt="light1" src="https://github.com/janrydzewski/E-Commerce/assets/52713164/d013332b-caef-402a-9731-39eb32217a3d">
